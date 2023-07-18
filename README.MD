@@ -23,7 +23,7 @@ To run this robot, you will need the following:
 
 4. Clone the repository to your local machine.
 
-    git clone https://github.com/Nisarg-1998/Outfit_Suggestion.git
+    git clone https://github.com/Nisarg-1998/ROBOT2_Outfit_Suggestion.git
 
 5. Navigate to the cloned repository directory and select the project file (.xaml file).
 
