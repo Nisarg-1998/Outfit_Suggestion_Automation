@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OutfitSuggestioninOtherDays&Sequence_2",
+        "OutfitSuggestioninsummer&Sequence_2",
+        "OutfitSuggestion&Sequence_2",
+        "RainGear&Sequence_2",
+        "Weather&Sequence_2",
+        "Temperature&Sequence_2",
+        "CityName&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
